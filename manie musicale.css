@@ -1,3 +1,7 @@
+
+
+
+
 body{
 background-color: rgb(203, 149, 209);
 }
@@ -93,3 +97,11 @@ font-size: 22px;
 end{
     font-size: xx-large;
 }
+side1{
+    color: aquamarine;
+    text-align: left;
+}
+side2{
+    text-align: right;
+}
+
